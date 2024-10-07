@@ -1,0 +1,6 @@
+voom-obs.line-scdn.net
+lisa-content.line-apps.com
+
+# if using ADGuard
+||voom-obs.line-scdn.net^
+||lisa-content.line-apps.com^
